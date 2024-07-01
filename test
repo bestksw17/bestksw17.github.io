@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BeautifulSoup Practice Page</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a sample HTML file for practicing BeautifulSoup.">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the BeautifulSoup Practice Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Home Section</h2>
+        <p>This is the home section of the page.</p>
+        <p class="info">Here is some additional information about the home section.</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Section</h2>
+        <p>This is the about section of the page.</p>
+        <p class="info">Here is some additional information about the about section.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Section</h2>
+        <p>This is the contact section of the page.</p>
+        <p class="info">Here is some additional information about the contact section.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 BeautifulSoup Practice. All rights reserved.</p>
+    </footer>
+</body>
+</html>
